@@ -1,0 +1,46 @@
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strategyadmin\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\strategydev\Documents\GitHub\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
